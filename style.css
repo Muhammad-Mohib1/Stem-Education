@@ -1,0 +1,216 @@
+/* Font */
+
+*{
+    font-family: "Noto Naskh Arabic", serif;
+}
+
+/* Logo & Name */
+
+@media screen and (max-width: 991px){
+    #anchor{
+        display: inline-block; 
+        margin: 0 auto 1rem;
+    }
+}
+
+/* Second Navbar */
+
+@media screen and (min-width:992px) and (max-width: 1200px){
+    .second-navbar{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* Second Navbar Margin Top */
+
+@media screen and (max-width: 991px){
+    .second-navbar-margin-top{
+        margin: -1rem 0 0 0;
+    }
+}
+
+/* Second Footer Top */
+
+@media screen and (max-width: 991px){
+    .second-footer-margin-top{
+        margin: -1rem 0 0 0;
+    }
+}
+
+/* Text Underline */
+
+.text-underline{
+    text-decoration: underline;
+}
+
+/* Paddings */
+
+/* Padding 6x 912 */
+
+@media screen and (min-width: 992px){
+    .padding-6x-912{
+        padding: 0 6rem;
+    }
+}
+
+/* Padding 6r 912 */
+
+@media screen and (min-width: 992px){
+    .padding-6r-912{
+        padding: 0 6rem 0 0;
+    }
+}
+
+/* Padding 6x 911 */
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .padding-6x-911{
+        padding: 0 6rem;
+    }
+}
+
+/* Padding 4x 767 */
+
+@media screen and (max-width: 767px){
+    .padding-4x-767{
+        padding: 0 4rem;
+    }
+}
+
+/* Padding 1.5x 575 */
+
+@media screen and (max-width: 575px){
+    .padding-1x-451{
+        padding: 0 1.5rem;
+    }
+}
+
+/* Dropdown Header */
+
+.dropdown-header-padding{
+    padding: 0 1rem;
+}
+
+/* Dropdown Icon */
+
+.dropdown-icon{
+    margin: 0 0.25rem 0 0;
+}
+
+/* Dropdown Divider */
+
+.dropdown-divider{
+    width: 100%;
+    padding: 0 1rem;
+}
+
+/* Navbar Items */
+
+@media screen and (max-width: 991px){
+    div.container ul{
+        justify-content: center;
+        margin-top: 1rem;
+    }
+}
+
+/* Centered Image */
+
+@media screen and (max-width: 991px){
+    #centered-image{
+        margin-top: 0rem;
+    }
+}
+
+/* Sub Heading Image 992 */
+
+@media screen and (min-width: 992px){
+    .sub-heading-image-992{
+        position: absolute;
+        margin: -2rem 61rem 0 0;
+    }
+}
+
+/* Sub Heading Image 991 */
+
+@media screen and (max-width: 991px){
+    .sub-heading-image-991{
+        position: relative;
+        margin: 0 auto 2rem;
+    }
+}
+
+/* Visibility Hidden */
+
+.visibility-hidden{
+    visibility: hidden;
+}
+
+/* Secondary Image */
+
+.left-image{
+    position: absolute;
+    margin: 0 70rem 0 0;
+}
+
+/* !!!!! */
+
+@media screen and (max-width: 991px){
+    #side-image{
+        height: 60px;
+        width: 60px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #big-secondary-centered-image{
+        position: absolute;
+        margin: -0.75rem 14rem 0 0;
+    }
+}
+
+@media screen and (max-width: 991px){
+    #secondary-centered-image{
+        height: 60px;
+        width: 60px;
+        position: absolute;
+        margin: -0.75rem 1rem 0 0;
+    }
+}
+
+@media screen and (max-width: 991px){
+    #side-image{
+        position: absolute;
+        margin: -0.75rem 2.5rem 0rem 0rem;
+    }
+}
+
+@media screen and (max-width: 576px){
+    #spr2{
+        padding: 0 2rem 0 0;
+    }
+}
+
+@media screen and (max-width: 576px){
+    #spl1{
+        padding: 0 0 0 1rem;
+    }
+}
+
+@media screen and (max-width: 991px){
+    #pr7{
+        padding: 0 7rem 0 0;
+    }
+}
+
+@media screen and (max-width: 991px){
+    #pl7{
+        padding: 0 0 0 7rem;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #xl-pr-2{
+        padding: 0 6rem 0 0;
+    }
+}
